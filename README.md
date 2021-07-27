@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruba Jyoti Borah, a Computer Science student.
-- 👀 I’m interested in football,travelling,riding and playing guitar.
+- 👀 I’m interested in Football,Travelling,Riding and playing Guitar.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
